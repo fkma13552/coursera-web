@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: gray;
+    border-bottom: 2px solid black;
+}
+
+.navbar-toggler{
+    border: 1px solid black;
+}
+
+.navbar-brand{
+    font-weight: 600;
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.heading{
+    margin-top: 30px;
+    font-weight: 400;
+}
+
+.menu-pos{
+    margin-top: 40px;
+    background: gray;
+    border: 2px solid black;
+}
+
+.nav-item{
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
